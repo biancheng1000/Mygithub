@@ -1,0 +1,6 @@
+G:\练习\autoRevert\autoRevert\bin\Debug\autoRevert.exe.config
+G:\练习\autoRevert\autoRevert\bin\Debug\autoRevert.exe
+G:\练习\autoRevert\autoRevert\bin\Debug\autoRevert.pdb
+G:\练习\autoRevert\autoRevert\obj\Debug\autoRevert.csprojResolveAssemblyReference.cache
+G:\练习\autoRevert\autoRevert\obj\Debug\autoRevert.exe
+G:\练习\autoRevert\autoRevert\obj\Debug\autoRevert.pdb
